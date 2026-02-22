@@ -14,3 +14,5 @@
 *.swift
 *.h
 module.modulemap*
+SwiftMuxer
+.DS_Store
